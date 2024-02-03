@@ -42,11 +42,11 @@ This project was created during my internship with JP Morgan Chase as part of th
 • Overall conclusions and next steps
 
 ## Slides :
-![Slide5](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/e7320ddb-e90b-41e9-870f-27d797b6d222)
-![Slide4](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/51ba8d7e-3f8d-433d-91f5-f18dce8b7ba4)
-![Slide3](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/23783b8a-c740-426f-8fe8-12a41cd44ccb)
-![Slide2](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/58fb835a-91ae-4441-8da9-a45b3e83088b)
 ![Slide1](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/6835b544-8dc7-4cbd-bb25-4dc35fcfaa34)
+![Slide2](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/58fb835a-91ae-4441-8da9-a45b3e83088b)
+![Slide3](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/23783b8a-c740-426f-8fe8-12a41cd44ccb)
+![Slide4](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/51ba8d7e-3f8d-433d-91f5-f18dce8b7ba4)
+![Slide5](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/e7320ddb-e90b-41e9-870f-27d797b6d222)
 
 This project description, accompanying Excel files and PowerPoint presentation will be added to my GitHub repository to showcase my work.
 
