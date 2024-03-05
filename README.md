@@ -27,7 +27,7 @@
 
 The insights generated help identify which accounts, cities and marketing channels are driving the most growth and where there are opportunities for improvement.
 
-This project was created during my internship with JP Morgan Chase as part of their Microsoft Excel internship program in 2023. The skills and knowledge gained in Excel data analysis, visualization and reporting were highly valuable for my studies and future career.
+With this project skills and knowledge gained in Excel data analysis, visualization and reporting were highly valuable for my studies and future career.
 
 ### In addition to the Excel files, I created a 5-slide PowerPoint presentation to showcase the key findings and recommendations from the analysis:
 
