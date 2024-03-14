@@ -2,17 +2,17 @@
 
 ## This project conducts an in-depth analysis of 5 years worth of sales data for various accounts, including wholesale distributors, online retailers, small businesses, and medium businesses. The dataset encompasses sales figures categorized by marketing channels such as social media, coupons, catalogues, posters, and more.
 
-### Developed utilizing Excel formulas, pivot tables, charts, and graphs.
+## Developed utilizing Excel formulas, pivot tables, charts, and graphs.
 
-### Key Features:
+## Key Features:
 - Computes the 5-year compound annual growth rate (CAGR) for each account based on marketing channels.
 - Determines the average CAGR by city, highlighting cities with the highest and lowest sales growth.
 - Visualizes year-over-year sales figures and CAGR for each account through visually appealing charts and graphs.
   
-### Dashboard Created:
+## Dashboard Created:
 ![Sales Account Data](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/fa34b206-56ba-4c5d-bf6f-4327b3047465)
 
-### Key Highlights:
+## Key Highlights:
 - Analyzed 5 years of account sales data spanning multiple business segments.
 - Calculated CAGR by marketing channel to pinpoint growth drivers and opportunities.
 - Presented year-over-year sales and growth trends visually through Excel charts.
@@ -28,7 +28,7 @@ The insights obtained aid in identifying the accounts, cities, and marketing cha
 • Recommendations to improve performance for underperforming accounts and marketing channels.
 • Overall conclusions and next steps
 
-### Slides :
+## Slides :
 ![Slide1](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/6835b544-8dc7-4cbd-bb25-4dc35fcfaa34)
 ![Slide2](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/58fb835a-91ae-4441-8da9-a45b3e83088b)
 ![Slide3](https://github.com/DataVizExpert-Sham/Account-Sales-Growth-Moniter/assets/151017676/23783b8a-c740-426f-8fe8-12a41cd44ccb)
